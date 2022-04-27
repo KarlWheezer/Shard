@@ -1,0 +1,3 @@
+set name = "Max";
+
+var age = 15;
