@@ -1,0 +1,7 @@
+fun main() => {
+   disp(sayHi("max", 15));
+}
+
+fun sayHi(name: string, age: number) => string {
+   return f"Hello, #[name]. You are #[age] years old.";
+}
